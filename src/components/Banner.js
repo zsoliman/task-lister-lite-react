@@ -1,6 +1,6 @@
 const Banner = () => {
     return (
-        <h1>Task Lister React</h1>
+        <h1>{ }</h1>
     )
 }
 
